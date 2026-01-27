@@ -569,7 +569,7 @@
 
    /* Messages divider bar color */
   .divider__5126c {
-    background: var(--neon-color1);
+    background: var(--neon-color3);
   }
 
   .divider__5126c .unreadPillCap__908e2 {
@@ -1526,6 +1526,7 @@
     /*border: 1px solid var(--neon-red-color);*/
     outline: 1px solid var(--neon-color1);
 }
+
 
 
 
