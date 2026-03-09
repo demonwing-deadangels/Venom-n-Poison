@@ -1,5 +1,6 @@
 # Venom-n-Poison
 Barely customizable theme for BetterDiscord and Vencord.
+Bright green & purple with rarely cyan.
 
 
 ngl do whatever you want with it idk, contact me if something breaks
